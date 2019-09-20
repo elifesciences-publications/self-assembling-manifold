@@ -1,3 +1,5 @@
+### This code is associated with the paper from Tarashansky et al., "Self-assembling manifolds in single-cell RNA sequencing data". eLife, 2019. http://dx.doi.org/10.7554/eLife.48994
+
 [![Build Status](https://travis-ci.com/atarashansky/self-assembling-manifold.svg?branch=master)](https://travis-ci.com/atarashansky/self-assembling-manifold)
 
 # self-assembling-manifold -- SAM version 0.6.9
